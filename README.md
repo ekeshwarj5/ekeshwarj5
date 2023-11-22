@@ -3,8 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekeshwarj5&label=Profile%20views&color=0e75b6&style=flat" alt="ekeshwarj5" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekeshwarj5" alt="ekeshwarj5" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript, React**
 
 - 💬 Ask me about **competitive programming, Django, DSA**
@@ -15,7 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/ekeshwarj5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ekeshwarj5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ekeshwar-jhode-9b53a8195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekeshwar-jhode-9b53a8195" height="30" width="40" /></a>
+<a href="https://instagram.com/ekeshwarj5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ekeshwarj5" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ekeshwarj_5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ekeshwarj_5" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ekeshwarj5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ekeshwarj5" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ekeshwarj5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ekeshwarj5" height="30" width="40" /></a>
