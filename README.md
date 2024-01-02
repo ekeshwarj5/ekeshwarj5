@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React**
 
-- 💬 Ask me about **competitive programming, Django, DSA**
+- 💬 Ask me about **competitive programming, JavaScript, React.js, Django, DSA**
 
 - 📫 How to reach me **mayurjhode55@gmail.com**
 
